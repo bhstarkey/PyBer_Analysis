@@ -40,7 +40,7 @@ The analysis of the PyBer ride-sharing shows:
 
 1. I would recommend that marketing is increased around holidays to increase potential fares.
 
-2. I could be advantageous to incentivize drivers around holidays so that there are plenty of drivers available, and no loss of customers.
+2. It could be advantageous to incentivize drivers around holidays so that there are plenty of drivers available, and no loss of customers.
 
 3. I would recommend trying to increase the number of drivers in the Suburban and Rural areas, as there are not nearly as many drivers in those areas. having a sign on bonus or something of the like could help remedy that dilemma.
 
