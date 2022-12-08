@@ -29,22 +29,28 @@ The analysis of the PyBer ride-sharing shows:
     * Suburban cities have on average 1.2 drivers for each ride.
     * Urban cities have on average .67 drivers for each ride.
     
+![PyBer_Pivot](https://user-images.githubusercontent.com/116474586/206328242-90e2e4e3-21c3-4562-b71f-3941a59f72fa.png)
+
+* Looking at the graph of fares by week, the peaks tend to coincide with holidays.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/116474586/206328614-463910ea-ca43-4a04-9c38-2a93f15c2f3c.png)
+
     
 ## Recommendations
 
-1. 
+1. I would recommend that marketing is increased around holidays to increase potential fares.
 
-2.
+2. I could be advantageous to incentivize drivers around holidays so that there are plenty of drivers available, and no loss of customers.
 
-3.
+3. I would recommend trying to increase the number of drivers in the Suburban and Rural areas, as there are not nearly as many drivers in those areas. having a sign on bonus or something of the like could help remedy that dilemma.
 
 
 ## Challenges
 
-
+There were a couple challenges with this dataset. There were no metrics on whether or not a driver was active, so that could have affected the number of drivers reported in each city. There also were not any metrics for length of a ride or duration that could give more information about each ride, and how much the cost per mile to the drivers is. 
 
 ## Resources
 
-* Data Source: 
+* Data Source: ride_data.csv & city_data.csv
 
 * Software: Python 10.6.1, Visual Studio Code 1.73.1
